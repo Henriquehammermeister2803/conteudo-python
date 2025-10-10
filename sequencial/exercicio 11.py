@@ -6,13 +6,15 @@ numero_3 = float(input("digite um numero com virgula:"))
 
 # letra A
 
-valor_1 = numero_1 *2 + numero_2 /2
+valor_1 = numero_1 *2 * numero_2 /2
 print("a resposta da letra A é:",valor_1)
 
 #letra B
 
 valor_2 = numero_3 *3 + numero_1
 print(" a resposta da letra b é:",valor_2)
+
+
 
 #letra C
 
