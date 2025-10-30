@@ -10,5 +10,4 @@ if delta < 0:
     print("Delta:", delta)
     print("Não é possível calcular raiz de numeros negativos")
     exit (1)
-if delta == 0:
-x = (b * -1) / (2 *a)
+
